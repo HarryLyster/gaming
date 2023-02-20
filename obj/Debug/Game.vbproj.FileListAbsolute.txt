@@ -1,0 +1,13 @@
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.xml
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.AntGame.resources
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Form1.resources
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Resources.resources
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.vbproj.GenerateResource.Cache
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.xml
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.AboutAnt.resources
+c:\users\novva\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.SplashScreen1.resources
